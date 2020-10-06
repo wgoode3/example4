@@ -7,7 +7,7 @@ var path = require("path");
 /* GET home page. */
 router.get('/', function(req, res, next) {
   fs.readFile(path.join(__dirname, "../products.json"), (err, data) => {
-    res.render('index', { title: 'Demo Store', products: JSON.parse(data) });
+    res.render('index', { title: 'This is a Store', products: JSON.parse(data) });
   });
 });
 
