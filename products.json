@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1001,
+        "name": "keyboard",
+        "price": 37.55
+    },
+    {
+        "id": 1002,
+        "name": "mouse",
+        "price": 24.75
+    },
+    {
+        "id": 1003,
+        "name": "webcam",
+        "price": 85.90
+    },
+    {
+        "id": 1004,
+        "name": "mousepad",
+        "price": 17.25
+    },
+    {
+        "id": 1005,
+        "name": "monitor",
+        "price": 108.95
+    }
+]
